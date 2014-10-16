@@ -1,0 +1,27 @@
+reading done!!
+reading done!!
+
+('scores: ', mean: 0.53060, std: 0.00403, params: {'kernel': 'rbf', 'C': 7.5, 'gamma': 200})
+('scores: ', mean: 0.53096, std: 0.00382, params: {'kernel': 'rbf', 'C': 7.5, 'gamma': 225})
+('scores: ', mean: 0.53186, std: 0.00261, params: {'kernel': 'rbf', 'C': 7.5, 'gamma': 250})
+('scores: ', mean: 0.53150, std: 0.00208, params: {'kernel': 'rbf', 'C': 7.5, 'gamma': 275})
+('scores: ', mean: 0.52998, std: 0.00265, params: {'kernel': 'rbf', 'C': 7.5, 'gamma': 300})
+('scores: ', mean: 0.52962, std: 0.00284, params: {'kernel': 'rbf', 'C': 7.5, 'gamma': 325})
+('scores: ', mean: 0.52884, std: 0.00206, params: {'kernel': 'rbf', 'C': 7.5, 'gamma': 350})
+('scores: ', mean: 0.53372, std: 0.00369, params: {'kernel': 'rbf', 'C': 10, 'gamma': 200})
+('scores: ', mean: 0.53402, std: 0.00271, params: {'kernel': 'rbf', 'C': 10, 'gamma': 225})
+('scores: ', mean: 0.53242, std: 0.00191, params: {'kernel': 'rbf', 'C': 10, 'gamma': 250})
+('scores: ', mean: 0.53120, std: 0.00330, params: {'kernel': 'rbf', 'C': 10, 'gamma': 275})
+('scores: ', mean: 0.53054, std: 0.00324, params: {'kernel': 'rbf', 'C': 10, 'gamma': 300})
+('scores: ', mean: 0.52946, std: 0.00349, params: {'kernel': 'rbf', 'C': 10, 'gamma': 325})
+('scores: ', mean: 0.52740, std: 0.00386, params: {'kernel': 'rbf', 'C': 10, 'gamma': 350})
+('scores: ', mean: 0.53518, std: 0.00301, params: {'kernel': 'rbf', 'C': 12.5, 'gamma': 200})
+('scores: ', mean: 0.53430, std: 0.00196, params: {'kernel': 'rbf', 'C': 12.5, 'gamma': 225})
+('scores: ', mean: 0.53268, std: 0.00317, params: {'kernel': 'rbf', 'C': 12.5, 'gamma': 250})
+('scores: ', mean: 0.53148, std: 0.00375, params: {'kernel': 'rbf', 'C': 12.5, 'gamma': 275})
+('scores: ', mean: 0.53020, std: 0.00314, params: {'kernel': 'rbf', 'C': 12.5, 'gamma': 300})
+('scores: ', mean: 0.52768, std: 0.00353, params: {'kernel': 'rbf', 'C': 12.5, 'gamma': 325})
+('scores: ', mean: 0.52574, std: 0.00305, params: {'kernel': 'rbf', 'C': 12.5, 'gamma': 350})
+('normalized_SVC_rbf_gamma_C', '#best parameters:', {'kernel': 'rbf', 'C': 12.5, 'gamma': 200})
+predicting
+('#total making words time:  ', 13423.45616221428)
